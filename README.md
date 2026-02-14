@@ -248,7 +248,7 @@ It extracts specific variable values from the model's response using the variabl
 
 ```bibtex
 @article{CFE2025,
-  title={From Olympiad to Office Hours (CFE-Bench)},
+  title={CFE-Bench: Classroom Final Exam Benchmark},
   year={2025}
 }
 ```
