@@ -184,9 +184,14 @@ It extracts specific variable values from the model's response using the variabl
 ## Citation
 
 ```bibtex
-@article{CFE2025,
-  title={CFE-Bench: Classroom Final Exam Benchmark},
-  year={2025}
+@misc{gao2026classroomfinalexaminstructortested,
+      title={Classroom Final Exam: An Instructor-Tested Reasoning Benchmark}, 
+      author={Chongyang Gao and Diji Yang and Shuyan Zhou and Xichen Yan and Luchuan Song and Shuo Li and Kezhen Chen},
+      year={2026},
+      eprint={2602.19517},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2602.19517}, 
 }
 ```
 
