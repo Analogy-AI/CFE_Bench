@@ -197,4 +197,4 @@ It extracts specific variable values from the model's response using the variabl
 
 ## Acknowledgments
 
-We thank the Analogy AI staffs. instructors and course staff who made their materials publicly available, enabling the construction of this benchmark.
+We thank the Analogy AI staffs and instructors who made their materials publicly available, enabling the construction of this benchmark.
